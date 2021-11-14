@@ -17,7 +17,7 @@ import time
 import logging
 from network import set_network
 from imagepool import ImagePool
-from dataset import load_data,MyDataSet
+
 from vis_dataset import visualize
 from mxnet.gluon.data import Dataset, DataLoader
 import glob
